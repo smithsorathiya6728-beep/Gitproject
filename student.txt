@@ -2,3 +2,4 @@ name : smith sorathiya
 cource : BCA : 3 
 subject : version controll
 my practical : 6
+This project was upadated using Git.
